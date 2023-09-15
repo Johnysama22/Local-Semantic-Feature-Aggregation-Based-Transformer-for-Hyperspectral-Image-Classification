@@ -1,7 +1,7 @@
 # Local-Semantic-Feature-Aggregation-Based-Transformer-for-Hyperspectral-Image-Classification
 Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification
 
-The code in this toolbox implements the ["Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/9864609). The code may easy to understand. 
+The code in this toolbox implements the ["Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/9864609). 
 
 How to use it?
 ---------------------
