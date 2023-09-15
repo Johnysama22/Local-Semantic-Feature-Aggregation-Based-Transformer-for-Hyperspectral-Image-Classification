@@ -1,7 +1,6 @@
-# Local-Semantic-Feature-Aggregation-Based-Transformer-for-Hyperspectral-Image-Classification
-Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification
+# Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification
 
-The code in this toolbox implements the ["Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/9864609). 
+Bing Tu, Xiaolong Liao, Qianming Li, Yishu Peng and Antonio Plaza. Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 5536115, doi: 10.1109/TGRS.2022.3201145. The code in this toolbox implements the ["Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/9864609). 
 
 How to use it?
 ---------------------
@@ -31,7 +30,6 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Bing Tu, Xiaolong Liao, Qianming Li, Yishu Peng and Antonio Plaza, "Local Semantic Feature Aggregation-Based Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 5536115, doi: 10.1109/TGRS.2022.3201145.
 ```
   @article{Tu2022LSFAT,
     author={Tu, Bing and Liao, Xiaolong and Li, Qianming and Peng, Yishu and Plaza, Antonio},
